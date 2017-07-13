@@ -1,0 +1,3 @@
+env_name: 'develop'
+
+redis_url: '//redis:6379'
